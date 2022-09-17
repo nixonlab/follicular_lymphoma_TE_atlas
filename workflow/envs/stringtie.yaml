@@ -1,7 +1,7 @@
-name: telescope
+name: stringtie
 channels:
   - bioconda
   - conda-forge
   - defaults
 dependencies:
-  - telescope ==1.0.3
+  - stringtie=2.2.1
